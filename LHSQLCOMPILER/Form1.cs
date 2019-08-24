@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace LHSQLCOMPILER
 {
-    public partial class Form1 : Form
+    public partial class LHSQL : Form
     {
-        public Form1()
+        public LHSQL()
         {
             InitializeComponent();
+        }
+
+        private void LHSQL_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
