@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LHSQLCOMPILER", "LHSQLCOMPILER\LHSQLCOMPILER.csproj", "{ECBC30FC-541F-45FC-9E7F-852F11074589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBC30FC-541F-45FC-9E7F-852F11074589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBC30FC-541F-45FC-9E7F-852F11074589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBC30FC-541F-45FC-9E7F-852F11074589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBC30FC-541F-45FC-9E7F-852F11074589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D6818D-EF88-4F4C-AAC7-8B6CE88527D3}
+	EndGlobalSection
+EndGlobal
